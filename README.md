@@ -10,7 +10,7 @@ Add the [pogo_rive package](https://pub.dev/packages/pogo_rive) dependency to yo
 
 ```yaml
 dependencies:
-  pogo_tiled: ^0.1.0
+  pogo_rive: ^0.1.0
 ```
 
 A plugin import is required in addition to the Pogo import in each source file that uses it:

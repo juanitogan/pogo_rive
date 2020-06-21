@@ -23,8 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  pogo:
-    path: ../pogo/
+  pogo: ^0.2.1
   flare_flutter: ^2.0.3
 
 dev_dependencies:
